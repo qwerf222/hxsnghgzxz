@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">公招选择器</string>
+    <string name="filter_title">标签筛选</string>
+    <string name="selected_title">已选标签</string>
+    <string name="reset_selection">清空</string>
+    <string name="tag_section_title">标签筛选区</string>
+    <string name="result_section_title">三标签组合</string>
+    <string name="result_summary_pick_three">至少选择 3 个标签</string>
+    <string name="result_summary_count">显示前 %1$d 组</string>
+    <string name="result_summary_no_match">没有符合的三标签组合</string>
+    <string name="empty_state_title">等待筛选</string>
+    <string name="empty_state_message">选择 3 个或更多标签后显示结果</string>
+    <string name="no_match_title">没有匹配结果</string>
+    <string name="no_match_message">换一组标签试试</string>
+    <string name="selection_limit_message">一次公招最多选择 5 个标签</string>
+    <string name="selected_none">未选择</string>
+    <string name="combo_count_badge">%1$d 人</string>
+    <string name="combo_quality">保底 %1$d★</string>
+    <string name="operator_chip_label">%1$s %2$d★</string>
+    <string name="operator_summary_exact">%1$s</string>
+    <string name="operator_summary_more">%1$s 等 %2$d 名</string>
+</resources>

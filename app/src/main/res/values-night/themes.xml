@@ -1,0 +1,16 @@
+<resources>
+    <style name="Theme.公招选择器" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_300</item>
+        <item name="colorPrimaryVariant">@color/primary_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/accent_400</item>
+        <item name="colorSecondaryVariant">@color/primary_500</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorSurface">@color/surface_card</item>
+        <item name="android:windowBackground">@color/background_light</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:navigationBarColor">@color/background_light</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>

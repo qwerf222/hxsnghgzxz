@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_300">#92ABFF</color>
+    <color name="primary_500">#426CFF</color>
+    <color name="primary_700">#2F52D1</color>
+    <color name="accent_400">#4EC5FF</color>
+    <color name="background_light">#F4F7FB</color>
+    <color name="surface_card">#FFFFFFFF</color>
+    <color name="border_soft">#D8E1F0</color>
+    <color name="text_primary">#1F2937</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="chip_selected_bg">#E1E8FF</color>
+    <color name="chip_selected_text">#2345B8</color>
+    <color name="rarity_6">#FF9F1C</color>
+    <color name="rarity_5">#C45CF0</color>
+    <color name="rarity_4">#3F7CFF</color>
+    <color name="rarity_3">#FF9F1C</color>
+    <color name="rarity_2">#9B5DE5</color>
+    <color name="rarity_1">#3F7CFF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
